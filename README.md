@@ -1,6 +1,6 @@
 # lab6_css_framework
 
-Nama : DHea Dwi Adelia
+Nama : Dhea Dwi Adelia
 
 NIM : 312210116
 
